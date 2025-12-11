@@ -68,12 +68,13 @@
                 
                 default:
                     Console.WriteLine("Interesting choice! What do you like about it?");
-                
+                break;
                     
                 
                 
                 
             }
+            
 
 
 
